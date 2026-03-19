@@ -2,49 +2,78 @@
 
 ### 👨‍💻 Frontend Developer | Software Engineering Student
 
-[cite_start]I am a senior Software Engineering student at **Ho Chi Minh City University of Technology**. [cite_start]With a GPA of **3.44/4.00**[cite: 14], I am passionate about building high-performance, pixel-perfect user interfaces and seamless backend integrations.
+I am a senior Software Engineering student at **Ho Chi Minh City University of Technology**. With a GPA of **3.44/4.00**, I am passionate about building high-performance, pixel-perfect user interfaces and seamless backend integrations.
 
-- [cite_start]🚀 **Goal:** Seeking a Frontend Developer Internship to apply academic knowledge and build expertise[cite: 6].
-- [cite_start]🏆 **Achievement:** Received the Outstanding Student Award in 2023[cite: 9].
-- [cite_start]🛠️ **Focus:** Modern State Management (Zustand), Data Fetching (Tanstack Query), and Animation (Framer Motion)[cite: 15].
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Frontend & Styling**
-- [cite_start]**Core:** JavaScript (ES6+), HTML5, CSS3, Sass/SCSS [cite: 11]
-- [cite_start]**Frameworks:** React, Next.js (Server Components) [cite: 15, 26]
-- [cite_start]**Styling:** TailwindCSS, Framer Motion [cite: 15, 44]
-
-**State & Data Management**
-- [cite_start]**Libraries:** Zustand, Tanstack Query [cite: 15]
-- [cite_start]**APIs:** RESTful APIs, GraphQL [cite: 18]
-
-**Backend & Database**
-- [cite_start]**Languages:** C# (Basic), Java (Basic) [cite: 11]
-- [cite_start]**Databases:** MySQL, Firebase, MongoDB, SQL Server [cite: 16, 38]
-
-**Testing & Tools**
-- [cite_start]**Testing:** Selenium IDE, REST Assured, Postman, Swagger [cite: 17]
-- [cite_start]**Design & CMS:** Figma, Sanity CMS [cite: 19]
-- [cite_start]**Workflow:** Git/GitHub, VS Code [cite: 19]
+- 🚀 **Goal:** Seeking a Frontend Developer Internship to apply academic knowledge and build expertise.
+- 🏆 **Achievement:** Received the Outstanding Student Award in 2023.
+- 🛠️ **Focus:** Modern State Management (Zustand), Data Fetching (Tanstack Query), and Animation (Framer Motion).
 
 ---
 
-### 🌟 Featured Projects
+```javascript
+const mquy = {
+    pronouns: "he" | "him",
+    code: ["JavaScript (ES6+)", "HTML5", "CSS3", "C# (basic)", "Java (basic)", "TypeScript"],
+    tools: ["React", "Next.js", "TailwindCSS", "Framer Motion", "GSAP", "Vite"],
+    databases: ["MySQL", "Firebase", "MongoDB", "SQL Server"],
+    apis: ["RESTful APIs", "GraphQL"],
+    cms: ["Sanity CMS"],
+    testing: ["Selenium IDE", "REST Assured", "Postman", "Swagger"],
+    devOps: ["Git", "GitHub"],
+    design: ["Figma"],
+    architecture: ["Component-Driven Development", "Clean Folder Structure"],
+    projects: {
+      featured: "Kim Kỳ Ceramic (E-commerce)",
+      others: ["Project Management System", "Personal Portfolio"]
+    }
+}
+```
+<h3 align="center">🛠️ Tech Stack & Skills</h3>
 
-#### 💎 [Kim Kỳ Ceramic](https://kimky.vn)
-[cite_start]*Frontend Developer & UX/UI Designer* [cite: 22]
-- [cite_start]Designed a cohesive system in **Figma** and developed a bilingual 'Page Builder' using **Sanity CMS**[cite: 25, 27].
-- [cite_start]Optimized SEO and performance via **Next.js Server Components**[cite: 26].
-- [cite_start]**Stack:** Next.js, TailwindCSS, TypeScript, Sanity CMS, Figma[cite: 28].
+<div align="center">
 
+**Frontend & Design**
+<br />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="border-radius: 10px; margin: 5px;" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" style="border-radius: 10px; margin: 5px;" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="border-radius: 10px; margin: 5px;" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="border-radius: 10px; margin: 5px;" />
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" style="border-radius: 10px; margin: 5px;" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="border-radius: 10px; margin: 5px;" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="border-radius: 10px; margin: 5px;" />
+<br />
+
+**Libraries & State Management**
+<br />
+<img src="https://img.shields.io/badge/Zustand-%23443333.svg?style=for-the-badge&logoColor=white" alt="Zustand" style="border-radius: 10px; margin: 5px;" />
+<img src="https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query" style="border-radius: 10px; margin: 5px;" />
+<img src="https://img.shields.io/badge/Framer--Motion-%23A10091.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" style="border-radius: 10px; margin: 5px;" />
+<br />
+
+**Backend & Databases**
+<br />
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" style="border-radius: 10px; margin: 5px;" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="border-radius: 10px; margin: 5px;" />
+<img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 10px; margin: 5px;" />
+<img src="https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" style="border-radius: 10px; margin: 5px;" />
+<br />
+
+**Tools & Testing**
+<br />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="border-radius: 10px; margin: 5px;" />
+<img src="https://img.shields.io/badge/-Swagger-%23C1E156?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" style="border-radius: 10px; margin: 5px;" />
+<img src="https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" style="border-radius: 10px; margin: 5px;" />
+<img src="https://img.shields.io/badge/REST--Assured-orange?style=for-the-badge&logo=java&logoColor=white" alt="REST Assured" style="border-radius: 10px; margin: 5px;" />
+
+
+</div>
 ---
 
 ### 📫 Connect with me:
-- [cite_start]**Email:** [leminhquy737@gmail.com](mailto:leminhquy737@gmail.com) [cite: 3]
-- [cite_start]**LinkedIn:** [linkedin.com/in/mquy2702](https://www.linkedin.com/in/mquy2702/) [cite: 3]
-- [cite_start]**Portfolio:** [leminhquy.dev](https://www.leminhquy.dev) [cite: 3]
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leminhquy737@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mquy2702/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.leminhquy.dev)
+
+---
 *"Continuous learning is the minimum requirement for success in the field of technology."*
